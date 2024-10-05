@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\S3\\asp\\demo_core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|d:\\fpt\\s3\\asp\\demo_core\\demo_core\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|solutionrelative:demo_core\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|d:\\fpt\\s3\\asp\\demo_core\\demo_core\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|solutionrelative:demo_core\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|d:\\fpt\\s3\\asp\\demo_core\\demo_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|solutionrelative:demo_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|d:\\fpt\\s3\\asp\\demo_core\\demo_core\\models\\fptdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|solutionrelative:demo_core\\models\\fptdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|d:\\fpt\\s3\\asp\\demo_core\\demo_core\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|solutionrelative:demo_core\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|d:\\fpt\\s3\\asp\\demo_core\\demo_core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C68B4AB-1E61-413C-9BDA-535C2ED187B9}|demo_core\\demo_core.csproj|solutionrelative:demo_core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Program.cs",
+              "RelativeDocumentMoniker": "demo_core\\Program.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Program.cs",
+              "RelativeToolTip": "demo_core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:15:23.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "demo_core\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "demo_core\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T14:13:49.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FptDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Models\\FptDbContext.cs",
+              "RelativeDocumentMoniker": "demo_core\\Models\\FptDbContext.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Models\\FptDbContext.cs",
+              "RelativeToolTip": "demo_core\\Models\\FptDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBAwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:12:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "my_layout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Views\\Shared\\my_layout.cshtml",
+              "RelativeDocumentMoniker": "demo_core\\Views\\Shared\\my_layout.cshtml",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Views\\Shared\\my_layout.cshtml",
+              "RelativeToolTip": "demo_core\\Views\\Shared\\my_layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T11:51:43.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "demo_core\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "demo_core\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T11:49:53.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "demo_core\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_core\\demo_core\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "demo_core\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:22:27.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

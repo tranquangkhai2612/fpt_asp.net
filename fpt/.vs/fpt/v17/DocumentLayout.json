@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\S3\\asp\\fpt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E205F0F-2C0A-4A86-BA27-3432B0D39AAC}|fpt\\fpt.csproj|d:\\fpt\\s3\\asp\\fpt\\fpt\\create_product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E205F0F-2C0A-4A86-BA27-3432B0D39AAC}|fpt\\fpt.csproj|solutionrelative:fpt\\create_product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E205F0F-2C0A-4A86-BA27-3432B0D39AAC}|fpt\\fpt.csproj|d:\\fpt\\s3\\asp\\fpt\\fpt\\create_product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4E205F0F-2C0A-4A86-BA27-3432B0D39AAC}|fpt\\fpt.csproj|solutionrelative:fpt\\create_product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E205F0F-2C0A-4A86-BA27-3432B0D39AAC}|fpt\\fpt.csproj|d:\\fpt\\s3\\asp\\fpt\\fpt\\ado_demo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E205F0F-2C0A-4A86-BA27-3432B0D39AAC}|fpt\\fpt.csproj|solutionrelative:fpt\\ado_demo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "create_product.aspx.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\fpt\\fpt\\create_product.aspx.cs",
+              "RelativeDocumentMoniker": "fpt\\create_product.aspx.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\fpt\\fpt\\create_product.aspx.cs",
+              "RelativeToolTip": "fpt\\create_product.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:52:40.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create_product.aspx",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\fpt\\fpt\\create_product.aspx",
+              "RelativeDocumentMoniker": "fpt\\create_product.aspx",
+              "ToolTip": "D:\\FPT\\S3\\asp\\fpt\\fpt\\create_product.aspx",
+              "RelativeToolTip": "fpt\\create_product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T13:52:19.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ado_demo.aspx.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\fpt\\fpt\\ado_demo.aspx.cs",
+              "RelativeDocumentMoniker": "fpt\\ado_demo.aspx.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\fpt\\fpt\\ado_demo.aspx.cs",
+              "RelativeToolTip": "fpt\\ado_demo.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:27:36.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

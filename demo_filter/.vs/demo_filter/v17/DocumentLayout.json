@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\S3\\asp\\demo_filter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37FD66-9253-43BE-89FA-08A2661D333F}|demo_filter\\demo_filter.csproj|d:\\fpt\\s3\\asp\\demo_filter\\demo_filter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F37FD66-9253-43BE-89FA-08A2661D333F}|demo_filter\\demo_filter.csproj|solutionrelative:demo_filter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37FD66-9253-43BE-89FA-08A2661D333F}|demo_filter\\demo_filter.csproj|d:\\fpt\\s3\\asp\\demo_filter\\demo_filter\\filters\\addheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F37FD66-9253-43BE-89FA-08A2661D333F}|demo_filter\\demo_filter.csproj|solutionrelative:demo_filter\\filters\\addheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37FD66-9253-43BE-89FA-08A2661D333F}|demo_filter\\demo_filter.csproj|d:\\fpt\\s3\\asp\\demo_filter\\demo_filter\\filters\\examplefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F37FD66-9253-43BE-89FA-08A2661D333F}|demo_filter\\demo_filter.csproj|solutionrelative:demo_filter\\filters\\examplefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37FD66-9253-43BE-89FA-08A2661D333F}|demo_filter\\demo_filter.csproj|d:\\fpt\\s3\\asp\\demo_filter\\demo_filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F37FD66-9253-43BE-89FA-08A2661D333F}|demo_filter\\demo_filter.csproj|solutionrelative:demo_filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_filter\\demo_filter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "demo_filter\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_filter\\demo_filter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "demo_filter\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:22:17.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddHeader.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_filter\\demo_filter\\Filters\\AddHeader.cs",
+              "RelativeDocumentMoniker": "demo_filter\\Filters\\AddHeader.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_filter\\demo_filter\\Filters\\AddHeader.cs",
+              "RelativeToolTip": "demo_filter\\Filters\\AddHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:18:46.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExampleFilter.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_filter\\demo_filter\\Filters\\ExampleFilter.cs",
+              "RelativeDocumentMoniker": "demo_filter\\Filters\\ExampleFilter.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_filter\\demo_filter\\Filters\\ExampleFilter.cs",
+              "RelativeToolTip": "demo_filter\\Filters\\ExampleFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:10:15.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\demo_filter\\demo_filter\\Program.cs",
+              "RelativeDocumentMoniker": "demo_filter\\Program.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\demo_filter\\demo_filter\\Program.cs",
+              "RelativeToolTip": "demo_filter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:08:46.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
