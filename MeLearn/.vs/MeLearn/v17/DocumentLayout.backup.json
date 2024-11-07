@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\S3\\asp\\MeLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA133D3-32D4-4317-BAC1-3C1E65A68DE9}|MeLearn\\MeLearn.csproj|d:\\fpt\\s3\\asp\\melearn\\melearn\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA133D3-32D4-4317-BAC1-3C1E65A68DE9}|MeLearn\\MeLearn.csproj|solutionrelative:melearn\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA133D3-32D4-4317-BAC1-3C1E65A68DE9}|MeLearn\\MeLearn.csproj|d:\\fpt\\s3\\asp\\melearn\\melearn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA133D3-32D4-4317-BAC1-3C1E65A68DE9}|MeLearn\\MeLearn.csproj|solutionrelative:melearn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA133D3-32D4-4317-BAC1-3C1E65A68DE9}|MeLearn\\MeLearn.csproj|d:\\fpt\\s3\\asp\\melearn\\melearn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDA133D3-32D4-4317-BAC1-3C1E65A68DE9}|MeLearn\\MeLearn.csproj|solutionrelative:melearn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MeLearn\\MeLearn\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "MeLearn\\Views\\Home\\Products.cshtml",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MeLearn\\MeLearn\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "MeLearn\\Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T03:35:25.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MeLearn\\MeLearn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MeLearn\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MeLearn\\MeLearn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MeLearn\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:29:12.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MeLearn\\MeLearn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeLearn\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MeLearn\\MeLearn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MeLearn\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T02:49:29.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

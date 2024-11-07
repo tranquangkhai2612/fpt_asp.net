@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\S3\\asp\\onion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F83805-3888-4889-BFF4-760C37A5023D}|onion\\onion.csproj|d:\\fpt\\s3\\asp\\onion\\onion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F83805-3888-4889-BFF4-760C37A5023D}|onion\\onion.csproj|solutionrelative:onion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A482E27B-B898-485C-9EBD-E00DD0A5041B}|ServiceLayer\\ServiceLayer.csproj|d:\\fpt\\s3\\asp\\onion\\servicelayer\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A482E27B-B898-485C-9EBD-E00DD0A5041B}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F83805-3888-4889-BFF4-760C37A5023D}|onion\\onion.csproj|d:\\fpt\\s3\\asp\\onion\\onion\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F83805-3888-4889-BFF4-760C37A5023D}|onion\\onion.csproj|solutionrelative:onion\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890CEDCA-F698-4800-B71E-7BD109FB1443}|DomainLayer\\DomainLayer.csproj|d:\\fpt\\s3\\asp\\onion\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890CEDCA-F698-4800-B71E-7BD109FB1443}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F83805-3888-4889-BFF4-760C37A5023D}|onion\\onion.csproj|d:\\fpt\\s3\\asp\\onion\\onion\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F83805-3888-4889-BFF4-760C37A5023D}|onion\\onion.csproj|solutionrelative:onion\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A482E27B-B898-485C-9EBD-E00DD0A5041B}|ServiceLayer\\ServiceLayer.csproj|d:\\fpt\\s3\\asp\\onion\\servicelayer\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A482E27B-B898-485C-9EBD-E00DD0A5041B}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF040E4-F6F1-4C56-8CFA-2DF259B6C1AF}|RepositoryLayer\\RepositoryLayer.csproj|d:\\fpt\\s3\\asp\\onion\\repositorylayer\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF040E4-F6F1-4C56-8CFA-2DF259B6C1AF}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\onion\\ServiceLayer\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Service\\StudentService.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\onion\\ServiceLayer\\Service\\StudentService.cs",
+              "RelativeToolTip": "ServiceLayer\\Service\\StudentService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:19:57.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\onion\\onion\\Program.cs",
+              "RelativeDocumentMoniker": "onion\\Program.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\onion\\onion\\Program.cs",
+              "RelativeToolTip": "onion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:14:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\onion\\onion\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "onion\\Models\\Student.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\onion\\onion\\Models\\Student.cs",
+              "RelativeToolTip": "onion\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:13:08.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\onion\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\onion\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:04:39.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\onion\\ServiceLayer\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\DTO\\StudentDTO.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\onion\\ServiceLayer\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "ServiceLayer\\DTO\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:03:40.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\onion\\onion\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "onion\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\onion\\onion\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "onion\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:16:00.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\onion\\RepositoryLayer\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Repository\\Repository.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\onion\\RepositoryLayer\\Repository\\Repository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Repository\\Repository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:16:19.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

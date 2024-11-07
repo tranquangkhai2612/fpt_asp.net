@@ -1,0 +1,15 @@
+D:\FPT\S3\asp\onion\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\FPT\S3\asp\onion\DomainLayer\bin\Debug\net8.0\DomainLayer.runtimeconfig.json
+D:\FPT\S3\asp\onion\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\FPT\S3\asp\onion\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\DomainLayer.genruntimeconfig.cache
+D:\FPT\S3\asp\onion\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

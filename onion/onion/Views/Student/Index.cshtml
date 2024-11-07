@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ServiceLayer.DTO.StudentDTO>
+@{
+    ViewData["Title"] = "Student Page";
+}
+
+<h1>Students</h1>
+<table>
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.Id)</></th>
+            <th>@Html.DisplayNameFor(m => m.Fullname)</></th>
+            <th>@Html.DisplayNameFor(m => m.Email)</></th>
+            <th>@Html.DisplayNameFor(m => m.Phone)</></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(m => item.Id)</td>
+                <td>@Html.DisplayFor(m => item.Fullname)</td>
+                <td>@Html.DisplayFor(m => item.Email)</td>
+                <td>@Html.DisplayFor(m => item.Phone)</td>
+            </tr>
+        }
+    </tbody>
+    
+</table>
+
+
+
+
+

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\S3\\asp\\MyMY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|d:\\fpt\\s3\\asp\\mymy\\mymy\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|solutionrelative:mymy\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|d:\\fpt\\s3\\asp\\mymy\\mymy\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|solutionrelative:mymy\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|d:\\fpt\\s3\\asp\\mymy\\mymy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|solutionrelative:mymy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|d:\\fpt\\s3\\asp\\mymy\\mymy\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|solutionrelative:mymy\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|d:\\fpt\\s3\\asp\\mymy\\mymy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|solutionrelative:mymy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|d:\\fpt\\s3\\asp\\mymy\\mymy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|solutionrelative:mymy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|d:\\fpt\\s3\\asp\\mymy\\mymy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6C04D4-3702-44B3-B512-5777D39F6F3F}|MyMY\\MyMY.csproj|solutionrelative:mymy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyMY\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "MyMY\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T12:05:29.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyMY\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyMY\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:05:10.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyMY\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyMY\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:35:37.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\appsettings.json",
+              "RelativeDocumentMoniker": "MyMY\\appsettings.json",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\appsettings.json",
+              "RelativeToolTip": "MyMY\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T11:32:11.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Program.cs",
+              "RelativeDocumentMoniker": "MyMY\\Program.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Program.cs",
+              "RelativeToolTip": "MyMY\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:32:09.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "MyMY\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "MyMY\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:31:02.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyMY\\Models\\Employee.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\MyMY\\MyMY\\Models\\Employee.cs",
+              "RelativeToolTip": "MyMY\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:29:32.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

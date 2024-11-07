@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\S3\\asp\\DemoRazerPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4D7DA0-FDF6-4393-89D7-2E4E0ADFAA8B}|DemoRazerPage\\DemoRazerPage.csproj|d:\\fpt\\s3\\asp\\demorazerpage\\demorazerpage\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4D7DA0-FDF6-4393-89D7-2E4E0ADFAA8B}|DemoRazerPage\\DemoRazerPage.csproj|solutionrelative:demorazerpage\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4D7DA0-FDF6-4393-89D7-2E4E0ADFAA8B}|DemoRazerPage\\DemoRazerPage.csproj|d:\\fpt\\s3\\asp\\demorazerpage\\demorazerpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C4D7DA0-FDF6-4393-89D7-2E4E0ADFAA8B}|DemoRazerPage\\DemoRazerPage.csproj|solutionrelative:demorazerpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4D7DA0-FDF6-4393-89D7-2E4E0ADFAA8B}|DemoRazerPage\\DemoRazerPage.csproj|d:\\fpt\\s3\\asp\\demorazerpage\\demorazerpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4D7DA0-FDF6-4393-89D7-2E4E0ADFAA8B}|DemoRazerPage\\DemoRazerPage.csproj|solutionrelative:demorazerpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\DemoRazerPage\\DemoRazerPage\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DemoRazerPage\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\DemoRazerPage\\DemoRazerPage\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "DemoRazerPage\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:07:55.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\DemoRazerPage\\DemoRazerPage\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoRazerPage\\appsettings.json",
+              "ToolTip": "D:\\FPT\\S3\\asp\\DemoRazerPage\\DemoRazerPage\\appsettings.json",
+              "RelativeToolTip": "DemoRazerPage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T13:59:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\S3\\asp\\DemoRazerPage\\DemoRazerPage\\Program.cs",
+              "RelativeDocumentMoniker": "DemoRazerPage\\Program.cs",
+              "ToolTip": "D:\\FPT\\S3\\asp\\DemoRazerPage\\DemoRazerPage\\Program.cs",
+              "RelativeToolTip": "DemoRazerPage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:59:46.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

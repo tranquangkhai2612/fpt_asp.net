@@ -1,0 +1,16 @@
+D:\FPT\S3\asp\onion\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.deps.json
+D:\FPT\S3\asp\onion\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.dll
+D:\FPT\S3\asp\onion\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+D:\FPT\S3\asp\onion\RepositoryLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\FPT\S3\asp\onion\RepositoryLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.sourcelink.json
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\Reposito.A0A61804.Up2Date
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.dll
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
+D:\FPT\S3\asp\onion\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll
